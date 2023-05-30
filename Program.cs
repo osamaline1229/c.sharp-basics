@@ -15,6 +15,10 @@
         {
             Console.WriteLine("pass");
         }
+        else if(C == 30)
+        {
+            Console.WriteLine(" iam good");
+        }
         else {
             Console.WriteLine("fail");
         }
