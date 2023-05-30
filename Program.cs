@@ -2,12 +2,21 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("******Name:osama******");
-        Console.WriteLine("daaaaaaaaaaaaaaaaaaaad");
-        Console.WriteLine("father Name: Abdullah");
-        Console.WriteLine("Date of Birth: 1/1/1999");
-        Console.WriteLine("Email: osama98138139@gmail.com");
-        Console.WriteLine("github username: Osamaline1229");
-        Console.ReadLine();
+        Console.Write("the value of x:");
+        int x = Convert.ToInt32(Console.ReadLine());
+        
+        Console.Write("the value of y:");
+        int y = Convert.ToInt32(Console.ReadLine());
+
+        int C = x * y;
+        Console.WriteLine(C);
+
+        if (C > 50)
+        {
+            Console.WriteLine("pass");
+        }
+        else {
+            Console.WriteLine("fail");
+        }
     }
 }
