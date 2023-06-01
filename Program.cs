@@ -12,6 +12,7 @@
         string c = "khalfan";
         string d = "hamdan";
         string e = "salman";
+        //josdjvidsj
 
 
         c = a;
