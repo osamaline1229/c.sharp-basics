@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\bin\Debug\net6.0\inputs.exe
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\bin\Debug\net6.0\inputs.deps.json
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\bin\Debug\net6.0\inputs.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\bin\Debug\net6.0\inputs.dll
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\bin\Debug\net6.0\inputs.pdb
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.dll
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\refint\inputs.dll
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.pdb
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\inputs.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\c-sharp-basics\obj\Debug\net6.0\ref\inputs.dll

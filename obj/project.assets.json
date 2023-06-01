@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TRA\\Desktop\\code-TRA\\c-sharp-basics\\c-sharp-basics.csproj",
-      "projectName": "c-sharp-basics",
-      "projectPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\c-sharp-basics\\c-sharp-basics.csproj",
+      "projectUniqueName": "C:\\Users\\TRA\\Desktop\\code-TRA\\c-sharp-basics\\swap.csproj",
+      "projectName": "swap",
+      "projectPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\c-sharp-basics\\swap.csproj",
       "packagesPath": "C:\\Users\\TRA\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\c-sharp-basics\\obj\\",
       "projectStyle": "PackageReference",
