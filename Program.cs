@@ -10,6 +10,7 @@
         
 
         string c = "khalfan";
+        string d = "hamdan";
 
 
         c = a;
