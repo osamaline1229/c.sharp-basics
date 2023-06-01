@@ -11,6 +11,7 @@
 
         string c = "khalfan";
         string d = "hamdan";
+        string e = "salman";
 
 
         c = a;
