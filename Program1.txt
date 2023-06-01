@@ -1,0 +1,28 @@
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        
+        Console.Write("Enter your a nember:");
+        int a = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Enter your b number:");
+        int b = Convert.ToInt32(Console.ReadLine());
+        int add = a + b;
+        Console.WriteLine("(a + b) = " + add);
+        int sub = a - b;
+        Console.WriteLine("(a - b) = " +  sub);
+        int rsub= b - a;
+        Console.WriteLine("(b - a) = " + rsub);
+        int div = a / b;
+        Console.WriteLine("(a / a) = " +  div);
+        int rdiv = b / a;
+        Console.WriteLine("(b / a) = " + rdiv);
+        int mlti = a * b;
+        Console.WriteLine("(a * b) = " +  mlti);
+        int duv = a % b;
+        Console.WriteLine("(a % b) = " +  duv);
+        int rduv = b % a;
+        Console.WriteLine("(b % a) = " + rduv);
+        
+    }
+}
